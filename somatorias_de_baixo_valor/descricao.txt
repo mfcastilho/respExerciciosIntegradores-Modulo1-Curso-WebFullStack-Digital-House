@@ -1,0 +1,3 @@
+Considere uma situação onde é necessário somar os valores que representam lucros obtidos em diversos meses, porém os ganhos superiores a R$ 1000,00 não serão apresentados junto aos demais.
+
+    Para isso, escreva uma função chamada somatoriaBaixoValor que, ao receber um array com diversos valores, retorna como resultado final a soma dos valores de todos os meses que apresentam lucro, exceto aqueles que excedem o valor de R$ 1000,00.

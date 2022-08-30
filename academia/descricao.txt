@@ -1,0 +1,10 @@
+Uma academia precisa separar grupos de pessoas tendo como base as suas alturas. Temos um array alunos que contem a altura de cada aluno da academia.
+
+Temos outros 3 arrays: grupoA, grupoB e grupoC. Eles devem ser preenchidos da seguinte forma: 
+
+
+grupoA - Alunos com altura entre 150 a 159
+grupoB - Alunos com altura entre 160 a 169
+grupoC - Alunos com altura de 170 ou mais
+
+Seu trabalho é pegar cada valor do array alunos e colocar o valor correspondente em seu respectivo grupo. Para esse exercício, você precisará usar loops, condicionais e funções de arrays. 
